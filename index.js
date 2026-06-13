@@ -70,8 +70,4 @@ function performOperation(a, b) {
     return a + b;
 }
 
-module.exports = {
-    calculateRectangleArea, isProfitable, checkCharStatus, isNumberOrString,
-    isPrime, getTypeOfValue, calculateTriangleArea, printGreaterNumber, printOwnName,
-    greetUser, isEven, performOperation
-};
+
